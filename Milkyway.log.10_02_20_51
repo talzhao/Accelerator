@@ -1,0 +1,37 @@
+Connection to IPC server failed.
+Starting IPC Server. (Port = 1925)
+IPC Server started successfully.
+;; ;# Scheme
+                  Milkyway(TM)
+  Version I-2013.12-SP-INTERNAL for RHEL64 -- Apr 02, 2014
+                                                  
+
+Linux 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64
+
+Host: DIC212 (AMD.64)
+
+Copyright (C) 1991-2014 Synopsys, Inc. All rights reserved.
+Your use of this program is subject to the terms and conditions of
+a written license agreement between you, or your company, and Synopsys.
+Use the Tcl command "help about" for additional information about
+certain restrictions on your use of this software and its inputs and outputs.
+Install Path: /eda/synopsys/starrc_2013.12/amd64_starrc
+
+Loading /eda/synopsys/starrc_2013.12/amd64_starrc/etc/scheme/.avntrc
+#t
+ Info: loading setup file(s)
+Info: sourcing installation .synopsys_milkyway.tcl
+Info: sourced /eda/synopsys/starrc_2013.12/amd64_starrc/etc/auxx/tcllib/astro/milkyway.tbc
+;; configureWindow 0 "25x24+0+0"
+;; load "lef2milkyway.scm"
+ERROR : Could not open file: /home/syliu/Desktop/accelerator_200929/lef2milkyway.scm
+#f
+Initialization completed
+
+----- Begin no-GUI mode
+----- To start GUI, use 'start_gui'
+
+----- Begin Scheme mode. For Tcl, type begin_tcl or click the Tcl button
+----- To run tcl script, use "source"
+
+caught signal 1 [hangup].
